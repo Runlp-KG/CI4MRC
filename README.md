@@ -49,8 +49,7 @@ run_qa_beam_search_no_trainer.py for XLNet and run_qa_no_trainer.py for others.
   
   doi          = {10.18653/V1/2023.FINDINGS-ACL.812},
   
-  biburl       = {https://dblp.org/rec/conf/acl/ZhuWZH023.bib},
-  
+  biburl       = {https://dblp.org/rec/conf/acl/ZhuWZH023.bib},\\
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 
 }
