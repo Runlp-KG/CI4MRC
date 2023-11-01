@@ -32,16 +32,27 @@ run_qa_beam_search_no_trainer.py for XLNet and run_qa_no_trainer.py for others.
 
 ## Cite
 @inproceedings{DBLP:conf/acl/ZhuWZH023,
+  
   author       = {Jiazheng Zhu, Shaojuan Wu, Xiaowang Zhang, Yuexian Hou and Zhiyong Feng},
+  
   title        = {Causal Intervention for Mitigating Name Bias in Machine Reading Comprehension},
+  
   booktitle    = {Findings of the Association for Computational Linguistics (ACL)},
+  
   pages        = {12837--12852},
+  
   publisher    = {Association for Computational Linguistics},
+  
   year         = {2023},
+  
   url          = {https://doi.org/10.18653/v1/2023.findings-acl.812},
+  
   doi          = {10.18653/V1/2023.FINDINGS-ACL.812},
+  
   biburl       = {https://dblp.org/rec/conf/acl/ZhuWZH023.bib},
+  
   bibsource    = {dblp computer science bibliography, https://dblp.org}
+
 }
 
 
